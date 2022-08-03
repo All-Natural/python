@@ -1,2 +1,2 @@
 # python
-There are some small Python projects。
+There are some small Python projects from my colab.
