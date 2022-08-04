@@ -1,0 +1,1510 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN" class="ua-windows ua-webkit">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="renderer" content="webkit">
+    <meta name="referrer" content="always">
+    <meta name="google-site-verification" content="ok0wCgT20tBBgo9_zat2iAcimtN4Ftf5ccsh092Xeyw" />
+    <title>
+
+白蛇2：青蛇劫起 短评
+</title>
+
+    <meta name="baidu-site-verification" content="cZdR4xxR7RxmM4zE" />
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+
+    <meta name="keywords" content="白蛇2：青蛇劫起,影讯,排片,放映时间,电影票价,在线购票"/>
+    <meta name="description" content="白蛇2：青蛇劫起短评" />
+    <meta name="mobile-agent" content="format=html5; url=https://m.douban.com/movie/subject/30435124/comments"/>
+    <script type="text/javascript" src="https://img3.doubanio.com/f/shire/2c0c1c6b83f9a457b0f38c38a32fc43a42ec9bad/js/do.js" data-cfg-autoload="false"></script>
+
+    <link rel="apple-touch-icon" href="https://img3.doubanio.com/f/movie/d59b2715fdea4968a450ee5f6c95c7d7a2030065/pics/movie/apple-touch-icon.png">
+    <link href="https://img3.doubanio.com/f/shire/6522c42d2aba9757aeefa0c35cc0cefc9229747c/css/douban.css" rel="stylesheet" type="text/css">
+    <link href="https://img3.doubanio.com/f/shire/db02bd3a4c78de56425ddeedd748a6804af60ee9/css/separation/_all.css" rel="stylesheet" type="text/css">
+    <link href="https://img3.doubanio.com/f/movie/252bef058b97005c6a41e8f1b9f7b06b84bc71b3/css/movie/base/init.css" rel="stylesheet">
+    <script type="text/javascript">var _head_start = new Date();</script>
+    <script type="text/javascript" src="https://img3.doubanio.com/f/movie/0495cb173e298c28593766009c7b0a953246c5b5/js/movie/lib/jquery.js"></script>
+    <script type="text/javascript" src="https://img3.doubanio.com/f/shire/22ee83f45f94c7a90e73e0ee4acd18f902a6991f/js/douban.js"></script>
+    <script type="text/javascript" src="https://img3.doubanio.com/f/shire/b0d3faaf7a432605add54908e39e17746824d6cc/js/separation/_all.js"></script>
+
+    <style type="text/css"></style>
+    <style type="text/css">img { max-width: 100%; }</style>
+    <script type="text/javascript"></script>
+    <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/54a57eff4f4579c0.css">
+
+    <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+
+    <script type="text/javascript">var _body_start = new Date();</script>
+
+
+
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/d3e2921/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+
+<div class="top-nav-info">
+  <ul>
+    <li>
+    <a id="top-nav-doumail-link" href="https://www.douban.com/doumail/">豆邮</a>
+    </li>
+    <li class="nav-user-account">
+      <a target="_blank" href="https://accounts.douban.com/passport/setting/" class="bn-more">
+        <span>关山晓月的帐号</span><span class="arrow"></span>
+      </a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.douban.com/mine/">个人主页</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a target="_blank" href="https://www.douban.com/mine/orders/">我的订单</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a target="_blank" href="https://www.douban.com/mine/wallet/">我的钱包</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a target="_blank" href="https://accounts.douban.com/passport/setting/">帐号管理</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.douban.com/accounts/logout?source=movie&ck=xHTX">退出</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  <div class="top-nav-reminder">
+    <a href="https://www.douban.com/notification/" class="lnk-remind">提醒</a>
+    <div id="top-nav-notimenu" class="more-items">
+      <div class="bd">
+        <p>加载中...</p>
+      </div>
+    </div>
+  </div>
+
+    <div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="doubanapp-tip">
+    <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 <span class="version">6.0</span> 全新发布</a>
+    <a href="javascript: void 0;" class="tip-close">×</a>
+  </div>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+  </div>
+</div>
+
+
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;234978694&quot;}">豆瓣</a>
+    </li>
+    <li class="">
+      <a href="https://book.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;234978694&quot;}">读书</a>
+    </li>
+    <li class="on">
+      <a href="https://movie.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;234978694&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;234978694&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;234978694&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;234978694&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;234978694&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;234978694&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://time.douban.com&#47;?dt_time_source=douban-web_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-time&quot;,&quot;uid&quot;:&quot;234978694&quot;}">时间</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;234978694&quot;}">豆品</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    USER_ID: "234978694",
+    UPLOAD_AUTH_TOKEN: "234978694:d576d4840018f7c82a2773a2e1f7c2e5eee54be4",
+    SSE_TOKEN: "f5268295e8a91a4b68d11a102ec1269852766f68",
+    SSE_TIMESTAMP: "1629851815",
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/d3e2921/shire/bundle.js" defer="defer"></script>
+
+
+
+
+
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/d3e2921/movie/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-movie" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;movie.douban.com">豆瓣电影</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;search.douban.com&#47;movie/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="搜索电影、电视剧、综艺、影人" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1002" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://movie.douban.com/mine"
+     >我看</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/cinema/nowplaying/"
+     >影讯&购票</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/explore"
+     >选电影</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/tv/"
+     >电视剧</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/chart"
+     >排行榜</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/tag/"
+     >分类</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/review/best/"
+     >影评</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/annual/2020?source=navigation"
+     >2020年度榜单</a>
+    </li>
+    <li    ><a href="https://www.douban.com/standbyme/2020?fullscreen=true&hidenav=true&autorotate=false&source=movie_navigation"
+            target="_blank"
+     >2020书影音报告</a>
+    </li>
+  </ul>
+</div>
+
+    <a href="https://movie.douban.com/annual/2020?source=movie_navigation" class="movieannual"></a>
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'movie_search_sugg', query:'{{= keyword }}', subject_id:'{{= id}}', i: '{{= index}}', type: '{{= type}}'})">
+            <img src="{{= img}}" width="40" />
+            <p>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                {{if sub_title}}
+                    <br /><span>{{= sub_title}}</span>
+                {{/if}}
+                {{if address}}
+                    <br /><span>{{= address}}</span>
+                {{/if}}
+                {{if episode}}
+                    {{if episode=="unknow"}}
+                        <br /><span>集数未知</span>
+                    {{else}}
+                        <br /><span>共{{= episode}}集</span>
+                    {{/if}}
+                {{/if}}
+            </p>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/d3e2921/movie/bundle.js" defer="defer"></script>
+
+
+
+
+
+
+    <div id="wrapper">
+
+
+
+    <div id="content">
+
+    <h1>白蛇2：青蛇劫起 短评</h1>
+
+        <div class="grid-16-8 clearfix">
+
+
+            <div class="article">
+
+
+
+
+<div class="clearfix Comments-hd">
+    <ul class="fleft CommentTabs">
+            <li class="is-active">
+                <span>看过(86541)</span>
+            </li>
+
+
+            <li>
+                <a href="?status=F">想看(2105)</a>
+            </li>
+    </ul>
+    <div class="fright">
+
+        <a href="javascript:;" class="comment_btn j a_collect_btn" name="cbtn-30435124">我来写短评</a>
+    </div>
+</div>
+
+
+
+    <div class="title_line clearfix color_gray">
+        <div class="fleft Comments-sortby">
+                <span>热门</span>
+                    <a href="?sort=time&status=P">最新</a>
+
+            <!-- 登录用户可见 -->
+                    <a href="?sort=follows&status=P">好友</a>
+
+        </div>
+    </div>
+
+    <div class="comment-filter">
+        <label>
+            <input type="radio" name="sort" value=""  checked="checked">
+                <span class="filter-name">全部</span>
+                <span class="comment-percent"></span>
+        </label>
+        <label>
+            <input type="radio" name="sort" value="h" >
+                <span class="filter-name">好评</span>
+                <span class="comment-percent">64%</span>
+        </label>
+        <label>
+            <input type="radio" name="sort" value="m" >
+                <span class="filter-name">一般</span>
+                <span class="comment-percent">24%</span>
+        </label>
+        <label>
+            <input type="radio" name="sort" value="l" >
+                <span class="filter-name">差评</span>
+                <span class="comment-percent">12%</span>
+        </label>
+    </div>
+
+    <div class="mod-bd" id="comments">
+
+
+
+
+
+
+
+
+
+
+        <div class="comment-item " data-cid="2964808693">
+
+
+        <div class="avatar">
+            <a title="And Astra" href="https://www.douban.com/people/194783256/">
+                <img src="https://img9.doubanio.com/icon/u194783256-4.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">5750</span>
+
+                    <input value="2964808693" type="hidden"/>
+                    <a href="javascript:;" data-id="2964808693"
+                        class="j vote-comment"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/194783256/" class="">And Astra</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time " title="2021-07-23 14:20:37">
+                    2021-07-23
+                </span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+
+                <span class="short">如果我800m能像牛魔王那样努力就好了</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item " data-cid="2962280400">
+
+
+        <div class="avatar">
+            <a title="吴钰" href="https://www.douban.com/people/180182989/">
+                <img src="https://img2.doubanio.com/icon/u180182989-1.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">6641</span>
+
+                    <input value="2962280400" type="hidden"/>
+                    <a href="javascript:;" data-id="2962280400"
+                        class="j vote-comment"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/180182989/" class="">吴钰</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time " title="2021-07-22 15:10:10">
+                    2021-07-22
+                </span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+
+                <span class="short">要留青白在人间</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item " data-cid="2965315910">
+
+
+        <div class="avatar">
+            <a title="我是尾号2473" href="https://www.douban.com/people/94332979/">
+                <img src="https://img9.doubanio.com/icon/u94332979-6.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">8139</span>
+
+                    <input value="2965315910" type="hidden"/>
+                    <a href="javascript:;" data-id="2965315910"
+                        class="j vote-comment"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/94332979/" class="">我是尾号2473</a>
+                    <span>看过</span>
+                    <span class="allstar30 rating" title="还行"></span>
+                <span class="comment-time " title="2021-07-23 22:13:25">
+                    2021-07-23
+                </span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+
+                <span class="short">次日，小青因涉嫌偷盗文物被杭州市公安局西湖区分局依法刑事拘留。🐶</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item " data-cid="2961986897">
+
+
+        <div class="avatar">
+            <a title="Feixiang" href="https://www.douban.com/people/feixianggod/">
+                <img src="https://img2.doubanio.com/icon/u126861474-3.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">2426</span>
+
+                    <input value="2961986897" type="hidden"/>
+                    <a href="javascript:;" data-id="2961986897"
+                        class="j vote-comment"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/feixianggod/" class="">Feixiang</a>
+                    <span>看过</span>
+                    <span class="allstar30 rating" title="还行"></span>
+                <span class="comment-time " title="2021-07-20 22:30:48">
+                    2021-07-20
+                </span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+
+                <span class="short">追光的视觉无疑是值得肯定的。在国风之外本作尝试了末世现代和蒸汽朋克，多元素杂糅并不突兀，动作场面甚至挑战了长镜，已是难得。遗憾的是，剧作问题依旧严重，动机薄弱是一方面，更令人失望的是本作力道尽失的女性意识觉醒，作为一部大女主电影，如此浅薄肯定是不够的。</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item " data-cid="2964106715">
+
+
+        <div class="avatar">
+            <a title="钾碳铀氟" href="https://www.douban.com/people/58929132/">
+                <img src="https://img9.doubanio.com/icon/u58929132-45.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">4243</span>
+
+                    <input value="2964106715" type="hidden"/>
+                    <a href="javascript:;" data-id="2964106715"
+                        class="j vote-comment"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/58929132/" class="">钾碳铀氟</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time " title="2021-07-22 21:35:06">
+                    2021-07-22
+                </span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+
+                <span class="short">没几个人说到点上，《青蛇劫起》的优秀在于这三方面：
+一是对世界设定的呈现。比起《哪吒重生》中单纯装逼的机车，本片用了极为丰富的视觉化叙述将整个修罗城铺开来，不仅成功地让观众信服其运转逻辑，更是使设定与主角的命运形成了紧密的联系。
+二是很好地统一了角色与主题。剧本设置多次的危机，不断在拷问角色的信仰，通过此方式，完成了人物形象的完整塑造。
+三是显而易见的画面升级。除了人物动作依旧稍有些僵硬，皮肤肌理到场景物理特效已经不好再挑剔了。</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item " data-cid="2961842754">
+
+
+        <div class="avatar">
+            <a title="20个小明≯" href="https://www.douban.com/people/W3IQ7/">
+                <img src="https://img3.doubanio.com/icon/u23344187-60.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">2849</span>
+
+                    <input value="2961842754" type="hidden"/>
+                    <a href="javascript:;" data-id="2961842754"
+                        class="j vote-comment"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/W3IQ7/" class="">20个小明≯</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time " title="2021-07-20 20:31:24">
+                    2021-07-20
+                </span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+
+                <span class="short">这就是爱情啊！2021最强国产姬片，感天动地……追光的技术真心叹为观止，较第一部而言故事和节奏更加完整紧凑，也更像一部成熟的商业动画电影，最后结尾收束带来的惊喜感也能拉抬一星，导演无疑是会抖包袱的……然而（第一部就存在的）乱加杀必死的毛病并没有改，如此执迷不悟日后惨遭反噬翻车倒是小事，关键这种小家子格局必然会跟世界级动画大厂拉开越来越大的差距 ……</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item " data-cid="2963151332">
+
+
+        <div class="avatar">
+            <a title="与小蜘蛛同行" href="https://www.douban.com/people/170959582/">
+                <img src="https://img3.doubanio.com/icon/u170959582-20.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">3083</span>
+
+                    <input value="2963151332" type="hidden"/>
+                    <a href="javascript:;" data-id="2963151332"
+                        class="j vote-comment"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/170959582/" class="">与小蜘蛛同行</a>
+                    <span>看过</span>
+                    <span class="allstar20 rating" title="较差"></span>
+                <span class="comment-time " title="2021-07-21 23:30:06">
+                    2021-07-21
+                </span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+
+                <span class="short">你完全不知道导演到底想要什么。横冲直撞的视觉奇观。第一幕有几段游戏式的视点镜头。随后第二幕暴露低俗的编导心理(即男性化的女性角色，本质是满足男性对于百合的性转剥削)。更为愚蠢的是第三幕的一日二十年，在凭空架构的世界里，横竖摆出这么多设定，什么一呼一吸的“劫起”时刻、帮派林立的“麦克斯”式对决、蛇形首尾相扣的“如果桥”、“新陈代谢”的高楼大厦等等，有哪个能比得过这个一日二十年的伟大设计呀。
+女性电影吗？不。是女性剥削电影(不是希区柯克式夸赞，此处贬义)。
+把“劫起”的频率化为节奏的动力，以至于到后期，几分钟一次“劫起”，您们自个儿想想这是在干什么？</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item " data-cid="2962963462">
+
+
+        <div class="avatar">
+            <a title="yuan" href="https://www.douban.com/people/yuannnnnnn/">
+                <img src="https://img9.doubanio.com/icon/u2711526-14.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">2170</span>
+
+                    <input value="2962963462" type="hidden"/>
+                    <a href="javascript:;" data-id="2962963462"
+                        class="j vote-comment"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/yuannnnnnn/" class="">yuan</a>
+                    <span>看过</span>
+                    <span class="allstar20 rating" title="较差"></span>
+                <span class="comment-time " title="2021-07-21 21:10:49">
+                    2021-07-21
+                </span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+
+                <span class="short">这是啥，超级女英雄小青？小青之银翼杀手，小青之攻壳机动队，小青之黑客帝国……买一张票，看到十部电影的影子，这就叫值回票价。</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item " data-cid="2962516524">
+
+
+        <div class="avatar">
+            <a title="判官" href="https://www.douban.com/people/122454843/">
+                <img src="https://img9.doubanio.com/icon/u122454843-56.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">1226</span>
+
+                    <input value="2962516524" type="hidden"/>
+                    <a href="javascript:;" data-id="2962516524"
+                        class="j vote-comment"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/122454843/" class="">判官</a>
+                    <span>看过</span>
+                    <span class="allstar20 rating" title="较差"></span>
+                <span class="comment-time " title="2021-07-21 13:28:57">
+                    2021-07-21
+                </span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+
+                <span class="short">青蛇逃难遇渣记，抱着大女主雄起或者觉得致敬老徐《青蛇》去看的放弃吧，完全没爽到，而且不知道到底是bg还是gl还是披着直男皮的伪百合，看得人性向一顿错乱，还很令人生气！各种左右互搏价值撕裂。男的个个都是油腻逼王，女的还是土味网红，这么多年了，追光就没改！所以心里虚啊，用一大堆奇观毫不停歇轰炸眼球，问题是观众也是见过世面也不傻了，这点钱拿去拍什么不好。总之是一部为封神做铺垫的泡泡玛特宣传片，没劲。</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item " data-cid="2964288292">
+
+
+        <div class="avatar">
+            <a title="居无间" href="https://www.douban.com/people/juwujian/">
+                <img src="https://img2.doubanio.com/icon/u49549492-13.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">2446</span>
+
+                    <input value="2964288292" type="hidden"/>
+                    <a href="javascript:;" data-id="2964288292"
+                        class="j vote-comment"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/juwujian/" class="">居无间</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time " title="2021-07-22 23:56:15">
+                    2021-07-22
+                </span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+
+                <span class="short">追光动画最佳。这回的剧本打磨得挺好，再加上国产顶级的3D技术，终于做出了撼人心魄的气象。尤其要赞叹一下小青与法海的战斗，水墨美学回魂，这才是国产动画应该努力的方向（之一）。世界观的构建很扎实，打造出了一整座修罗城（时间可以缩短一些）。最让人惊喜的是，好几场戏得了徐克《青蛇》的神采。“执念“色相”“缘”“劫”等佛学概念，让本来非常类型化的故事上了一个层次。以及，这个故事可以改名为《白蛇2：你好，白蛇》。</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item " data-cid="2964340839">
+
+
+        <div class="avatar">
+            <a title="翻滚吧！蛋堡" href="https://www.douban.com/people/7542909/">
+                <img src="https://img2.doubanio.com/icon/u7542909-93.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">4266</span>
+
+                    <input value="2964340839" type="hidden"/>
+                    <a href="javascript:;" data-id="2964340839"
+                        class="j vote-comment"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/7542909/" class="">翻滚吧！蛋堡</a>
+                    <span>看过</span>
+                    <span class="allstar30 rating" title="还行"></span>
+                <span class="comment-time " title="2021-07-23 00:45:20">
+                    2021-07-23
+                </span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+
+                <span class="short">这是什么旷世姬情！</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item " data-cid="2961950847">
+
+
+        <div class="avatar">
+            <a title="撒西ko" href="https://www.douban.com/people/194529249/">
+                <img src="https://img9.doubanio.com/icon/u194529249-4.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">1046</span>
+
+                    <input value="2961950847" type="hidden"/>
+                    <a href="javascript:;" data-id="2961950847"
+                        class="j vote-comment"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/194529249/" class="">撒西ko</a>
+                    <span>看过</span>
+                    <span class="allstar20 rating" title="较差"></span>
+                <span class="comment-time " title="2021-07-23 12:53:12">
+                    2021-07-23
+                </span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+
+                <span class="short">别洗了 真的差，美工好那是没疑问的，但是剧情发展逻辑崩中崩，最差的就是台词了，看的好难受啊。而且我真的难以接受伪百合。如果不是水墨画等一系列美工撑着，就是一部剧本崩溃，内核稀碎的烂电影。</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item " data-cid="2961609560">
+
+
+        <div class="avatar">
+            <a title="我爱罗宾" href="https://www.douban.com/people/49867478/">
+                <img src="https://img2.doubanio.com/icon/u49867478-2.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">3140</span>
+
+                    <input value="2961609560" type="hidden"/>
+                    <a href="javascript:;" data-id="2961609560"
+                        class="j vote-comment"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/49867478/" class="">我爱罗宾</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time " title="2021-07-20 16:30:11">
+                    2021-07-20
+                </span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+
+                <span class="short">好燃，小青斗天斗地斗法海，法海还有点像wyf，感觉锤得更过瘾了！</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item " data-cid="2965271504">
+
+
+        <div class="avatar">
+            <a title="在逃公主" href="https://www.douban.com/people/nana_007/">
+                <img src="https://img2.doubanio.com/icon/u3764900-71.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">1848</span>
+
+                    <input value="2965271504" type="hidden"/>
+                    <a href="javascript:;" data-id="2965271504"
+                        class="j vote-comment"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/nana_007/" class="">在逃公主</a>
+                    <span>看过</span>
+                    <span class="allstar30 rating" title="还行"></span>
+                <span class="comment-time " title="2021-07-23 21:37:31">
+                    2021-07-23
+                </span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+
+                <span class="short">你爱的男人要么是渣男色鬼要么是你上辈子的姐妹</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item " data-cid="2962172978">
+
+
+        <div class="avatar">
+            <a title="朝阳区妻夫木聪" href="https://www.douban.com/people/Invisible___/">
+                <img src="https://img9.doubanio.com/icon/u57750369-64.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">1573</span>
+
+                    <input value="2962172978" type="hidden"/>
+                    <a href="javascript:;" data-id="2962172978"
+                        class="j vote-comment"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/Invisible___/" class="">朝阳区妻夫木聪</a>
+                    <span>看过</span>
+                    <span class="allstar30 rating" title="还行"></span>
+                <span class="comment-time " title="2021-07-21 01:08:53">
+                    2021-07-21
+                </span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+
+                <span class="short">总算给追光打了一次三星了哈哈哈，但还是想说追光真的以后剧本外包行不行别自己写了，这个七拐八绕看起来处处反转实则没有反转的故事看到最后真的让人想高呼“大可不必”。至于姬情什么的，倒也觉得就还好，反倒是这整个主题讲的难道不是“男人没一个好东西”吗哈哈哈，片中的男人反正都是废柴or懦夫or负心汉or自私鬼or叛徒or渣男什么的，唯一一个有良心还是个女的变的，就很好笑，放到当下看居然觉得还蛮写实的哈哈哈。另外，追光老喜欢搞一些土不啦叽油腻到死的男性凝视，真的很难笑，而且放在一部主打girl power的片子里也很不合时宜啊。画面精美动作酷炫什么的，已经夸烂了不是吗？但换句话说，说它是temple run大电影好像也没差。总之这部相对已经算是观感蛮好的了，但觉得自己跟追光还是无缘。</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item " data-cid="2963177088">
+
+
+        <div class="avatar">
+            <a title="西楼尘" href="https://www.douban.com/people/xilouchen/">
+                <img src="https://img3.doubanio.com/icon/u49290419-30.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">2417</span>
+
+                    <input value="2963177088" type="hidden"/>
+                    <a href="javascript:;" data-id="2963177088"
+                        class="j vote-comment"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/xilouchen/" class="">西楼尘</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time " title="2021-07-21 23:48:14">
+                    2021-07-21
+                </span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+
+                <span class="short">让无池记得你不愿抹去的执念，让黑风洞记得我经年不改的罢休，让如果桥记得你长出翅膀的甘愿，让修罗城记得我不会超度的因缘。不懂为何最苦最怨是求而不得，直到雷峰塔下几度轮回遇不到她。谁说这执念虚渺一切皆空，愿为修炼这执念一瞬二十年。不在乎记忆全无，面目全非，只想证明遇见你不是劫，是缘。</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item " data-cid="2962062585">
+
+
+        <div class="avatar">
+            <a title="亵渎电影" href="https://www.douban.com/people/zhangzongqian/">
+                <img src="https://img2.doubanio.com/icon/u3995080-213.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">1545</span>
+
+                    <input value="2962062585" type="hidden"/>
+                    <a href="javascript:;" data-id="2962062585"
+                        class="j vote-comment"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/zhangzongqian/" class="">亵渎电影</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time " title="2021-07-20 23:27:01">
+                    2021-07-20
+                </span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+
+                <span class="short">国产动画电影最常被诟病的就是剧本和叙事节奏，追光动画的这部新作完美的避开了这些槽点，是一部逻辑非常扎实，节奏非常稳的剧情片，完成度非常高。追光动画解构传统神话的电影宇宙随着作品越来越多，也变得越来越有意思，它的优点是不断延续的，比如传统东方美学的画风和废墟朋克美学可以完美融合。比如文戏武拍的剧情设计，全程高速的动作戏诚意十足，娱乐性非常强。在世界观上，它用现代人的价值观去续写这些耳熟能详的人物，很好的贴合了当下年轻人的思维，紧随我们的时代。这部青蛇大战法海的故事骨子里直接就是姬片，女性角色不需要被任何人拯救，她可以靠自己强大起来，拯救自己，是小青这个角色女性意识觉醒的过程。看片之前，没想到这部《青蛇劫起》的剧作会这么扎实，完全超出预期，今年暑期档终于有一部口碑会炸的现象级电影了。</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item " data-cid="2965352078">
+
+
+        <div class="avatar">
+            <a title="青梧不老" href="https://www.douban.com/people/57850884/">
+                <img src="https://img9.doubanio.com/icon/u57850884-4.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">606</span>
+
+                    <input value="2965352078" type="hidden"/>
+                    <a href="javascript:;" data-id="2965352078"
+                        class="j vote-comment"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/57850884/" class="">青梧不老</a>
+                    <span>看过</span>
+                    <span class="allstar20 rating" title="较差"></span>
+                <span class="comment-time " title="2021-07-23 22:39:50">
+                    2021-07-23
+                </span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+
+                <span class="short">没想到以这样的方式看到吴亦凡出演的最后一部电影。</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item " data-cid="2965631673">
+
+
+        <div class="avatar">
+            <a title="魚." href="https://www.douban.com/people/carlo_/">
+                <img src="https://img2.doubanio.com/icon/u49466613-52.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">758</span>
+
+                    <input value="2965631673" type="hidden"/>
+                    <a href="javascript:;" data-id="2965631673"
+                        class="j vote-comment"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/carlo_/" class="">魚.</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time " title="2021-07-24 03:40:29">
+                    2021-07-24
+                </span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+
+                <span class="short">法海 你要度众生 可是众生 让你度了吗</span>
+        </p>
+    </div>
+
+        </div>
+
+        <div class="comment-item " data-cid="2963610543">
+
+
+        <div class="avatar">
+            <a title="壹安²" href="https://www.douban.com/people/rayland/">
+                <img src="https://img1.doubanio.com/icon/u3409691-138.jpg" class="" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">4851</span>
+
+                    <input value="2963610543" type="hidden"/>
+                    <a href="javascript:;" data-id="2963610543"
+                        class="j vote-comment"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/rayland/" class="">壹安²</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time " title="2021-07-22 12:50:54">
+                    2021-07-22
+                </span>
+            </span>
+        </h3>
+        <p class=" comment-content">
+
+                <span class="short">万万没想到青蛇讲的是女性独立故事，从古至今，我青姐就是从不靠男人、自己闯荡的女王。和第一部古典画风不同，这种废土美学在视觉奇观上更过瘾，也更体现女王性格，当然也让我们看到国漫的更多可能，谁说必须墨守成规？</span>
+        </p>
+    </div>
+
+        </div>
+
+
+
+
+
+<style>
+      #comments .comment-report { text-align: right; }
+
+    .js-hide-multi {
+        cursor: pointer;
+        position: fixed;
+        top: 50%;
+        right: 180px;
+        padding: 8px;
+        font-size: 20px;
+        color: #fff;
+        background: #E6953D;
+        border-radius: 8px;
+    }
+    .hide-check {
+        margin: 0 80px 10px 0;
+        background: #E6953D;
+        -ms-transform: scale(2); /* IE */
+        -moz-transform: scale(2); /* FireFox */
+        -webkit-transform: scale(2); /* Safari and Chrome */
+        -o-transform: scale(2); /* Opera */
+    }
+</style>
+
+<script type="text/javascript" src="https://img3.doubanio.com/f/shire/072a17e1a083e85fab3d9bb187de25d07c97f544/js/report_dialog.js"></script>
+<link rel="stylesheet" type="text/css" href="https://img3.doubanio.com/f/shire/23ff197799d608be56df5dfefb4974fa33f4579b/css/report_dialog.css" />
+<script>
+    function ADD_REPORT () {
+        $.each($(".comment-item .comment"), function(i, el){
+            if ($(el).find(".comment-report").length==0){
+                $(el).append('<div class="comment-report"><a rel="nofollow" href="javascript:void(0)">投诉</a></div>');
+            }
+        });
+    }
+
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+        $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+          switch (e.type) {
+            case "mouseenter":
+              $(this).find(".comment-report").css('visibility', 'visible');
+              break;
+            case "mouseleave":
+              $(this).find(".comment-report").css('visibility', 'hidden');
+              break;
+          }
+        });
+        $("body").delegate(".comment-report a", 'click', function (e) {
+          e.preventDefault();
+          var opt = "comment_id";
+          var obj = $(e.target).closest('.comment-item');
+          var cid = obj.data("cid");
+          var url = "https://movie.douban.com/subject/30435124/comments?".concat(opt, '=', cid);
+          generate_report_dialog({ report_url: url, type: ['subject', 'comment'] });
+        });
+
+        ADD_REPORT();
+
+        window._hide_ids = new Set()
+        $('.hide-check').on('click', function (e) {
+            const $this = $(this);
+            const checked = Boolean($this.attr('checked'));
+            const comment_id = $this.data('id');
+            if (checked) {
+                window._hide_ids.add(comment_id);
+            } else {
+                window._hide_ids.delete(comment_id);
+            }
+            $('.hide-count').html(window._hide_ids.size)
+            $('.js-hide-multi').attr('data-ids', [...window._hide_ids].join())
+        });
+    });
+</script>
+
+
+
+    <div class="comments-footer-tips">
+        * 影片上映之前的、与影片无关的或包含人身攻击等内容的短评都将有可能被折叠，且评分不计入豆瓣评分。<br/>
+        * 短评的排序是将豆瓣成员的投票加权平均计算后的结果，通过算法的调校，更好地反映短评内容的价值。<br/>
+    </div>
+
+
+        <div id="paginator" class="center">
+                <span class="first" data-page='first'><< 首页</span>
+                <span class="prev" data-page='prev'>< 前页</span>
+                <a href="?start=20&amp;limit=20&amp;sort=new_score&amp;status=P&amp;percent_type=" data-page='next' class="next">后页 ></a>
+        </div>
+
+
+
+    </div>
+
+            </div>
+            <div class="aside">
+
+
+
+<p class="pl2">&gt; <a href="https://movie.douban.com/subject/30435124/">去 白蛇2：青蛇劫起 的页面</a></p>
+
+    <div class="indent">
+
+
+
+
+
+
+
+
+
+
+<div class="movie-summary">
+        <div class="movie-pic"><a  href="https://movie.douban.com/subject/30435124/" ><img alt="白蛇2：青蛇劫起" title="白蛇2：青蛇劫起" src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2676545572.webp" rel="v:image" width="100px"></a></div>
+    <span class="attrs">
+
+
+        <p>
+            <span class="pl">导演:</span>
+                <a  href="https://movie.douban.com/celebrity/1401171/">黄家康</a>
+        </p>
+
+
+
+        <p>
+            <span class="pl">主演:</span>
+                <a  href="https://movie.douban.com/celebrity/1340810/">唐小喜</a> / <a  href="https://movie.douban.com/celebrity/1433076/">歪歪</a> / <a  href="https://movie.douban.com/celebrity/1374285/">魏超</a> / <a  href="https://movie.douban.com/celebrity/1406075/">赵铭洲</a> / <a  href="https://movie.douban.com/celebrity/1379735/">郑小璞</a> / <a  href="https://movie.douban.com/celebrity/1404930/">马程</a> / <a  href="https://movie.douban.com/celebrity/1458571/">宋旭晨</a> / <a  href="https://movie.douban.com/celebrity/1384857/">邱秋</a> / <a  href="https://movie.douban.com/celebrity/1320631/">张凯</a> / <a  href="https://movie.douban.com/celebrity/1366856/">徐佳琦</a> / <a  href="https://movie.douban.com/celebrity/1430950/">关帅</a> / <a  href="https://movie.douban.com/celebrity/1385052/">张碧玉</a> / <a  href="https://movie.douban.com/celebrity/1389748/">张喆</a> / <a  href="https://movie.douban.com/celebrity/1341265/">杨天翔</a> / <a  href="https://movie.douban.com/celebrity/1334350/">宝木中阳</a> / <a  href="https://movie.douban.com/celebrity/1340112/">林强</a>
+        </p>
+
+
+
+        <p>
+            <span class="pl">类型:</span>
+                动画, 奇幻, 冒险
+        </p>
+
+
+
+        <p>
+            <span class="pl">地区:</span>
+                中国大陆
+        </p>
+
+
+
+        <p>
+            <span class="pl">片长:</span>
+                131分钟
+        </p>
+
+
+
+        <p>
+            <span class="pl">上映:</span>
+                2021-07-23(中国大陆)
+        </p>
+
+        <a  class="trail_link" data-trailer-id="278372" href="https://movie.douban.com/trailer/278372/#content" >预告片</a>
+    </span>
+</div>
+
+
+
+    </div>
+    <div id="dale_movie_subject_comments_bottom_right"></div>
+    <a href="https://help.douban.com/blackroom">> 豆瓣违规公示</a>
+
+            </div>
+            <div class="extra">
+
+            </div>
+        </div>
+    </div>
+
+
+    <div id="footer">
+            <div class="footer-extra"></div>
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2021 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about/legal">法律声明</a>
+
+    · <a href="https://help.douban.com/?app=movie" target="_blank">帮助中心</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+    </div>
+
+    </div>
+    <!-- COLLECTED JS -->
+
+    <script type="text/javascript" src="https://img3.doubanio.com/f/shire/383a6e43f2108dc69e3ff2681bc4dc6c72a5ffb0/js/ui/dialog.js"></script>
+
+
+
+
+
+
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '234978694',
+            browserId = '7PKfXzWn-T8',
+            criteria = '3:/subject/30435124/comments?status=P',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_movie_subject_comments_bottom_right'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', '//img1.doubanio.com/YWVrMm1iYy9mL2FkanMvN2ZmNmEyM2M0ZDNjMmQxYWVkMjMwZDIwMDU5NWI2YTFkNDc5YjExYi9hZC5yZWxlYXNlLmpz');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+    <script src="https://img3.doubanio.com/f/movie/33bb917eefbefa3c41973b87efd26faa433e980e/js/movie/lib/subject-comments/comments.js"></script>
+    <script>
+        if (window.SUBJECT_COMMENTS) {
+            // expand handler
+            SUBJECT_COMMENTS.createExpandHandler({
+                root: document.getElementById('comments'),
+            });
+            // comments
+            SUBJECT_COMMENTS.createComments({
+                subject_id: "30435124",
+                state: {
+                    percent_type: "",
+                    start: parseInt("0", 10),
+                    limit: parseInt("20", 10),
+                    status: "P",
+                    sort: "new_score"
+                },
+                afterFetch: () => {
+                    if (window.ADD_REPORT) {
+                        window.ADD_REPORT()
+                    }
+                }
+            });
+            // vote
+            SUBJECT_COMMENTS.createVoteHandler({
+                api: '/j/comment/vote',
+                root: document.getElementById('comments'),
+                voteSelector: '.vote-comment',
+                textSelector: '.vote-count',
+                is_released: "true",
+                alert_text: "该电影还未上映，不能投票噢",
+                afterVote: function (elem) {
+                    var parentNode = elem.parentNode;
+                    var successElem = document.createElement('span');
+                    successElem.innerHTML = '已投票';
+                    parentNode.removeChild(elem);
+                    parentNode.appendChild(successElem);
+                }
+            })
+        }
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript';
+    g.defer=true;
+    g.async=true;
+    g.src=p+'://img3.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+})();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-19', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id]);
+      _gaq.push([method('_setSampleRate'), '5']);
+
+
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '1', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+
+
+    <!-- dae-web-movie--default-b646d77d9-vwm7k-->
+
+  <script>_SPLITTEST=''</script>
+</body>
+
+</html>
+
+
